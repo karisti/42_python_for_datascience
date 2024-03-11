@@ -1,0 +1,13 @@
+[project]
+name = "ft_package"
+version = "0.0.1"
+description = "A sample test package"
+authors = [
+  {name = "karisti-"},
+  {email = "karisti-@student.42madrid.com"},
+]
+license = {file = "LICENSE", name = "MIT"}
+classifiers = []
+
+[project.urls]
+Homepage = "https://github.com/karisti-/ft_package"
