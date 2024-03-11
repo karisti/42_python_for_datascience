@@ -12,11 +12,11 @@ This project consists of 5 modules with exercises as an introduction to Python f
 ## Lessons
 | Module   | Lessons |
 | ------------ | ------------ |
-| Python - 0 - Starting | Python basics: Object types, nulls, yield, package creation, ... |
-| Python - 1 - Array | Arrays, their manipulations, and work on images. Numpy, pillow. |
-| Python - 2 - DataTable | Load, manipulate and display datatable. Matplot. |
-| Python - 3 - OOP | Classes and the heritage. |
-| Python - 4 - Dod | Structure Design. |
+| [Python - 0 - Starting](0_Starting) | Python basics: Object types, nulls, yield, package creation, ... |
+| [Python - 1 - Array](1_Array) | Arrays, their manipulations, and work on images. Numpy, pillow. |
+| [Python - 2 - DataTable](2_DataTable) | Load, manipulate and display datatable. Matplot. |
+| [Python - 3 - OOP](3_OPP) | Classes and the heritage. |
+| [Python - 4 - Dod](4_Dod) | Structure Design. |
 
 ## Resources
 - [Python](https://www.python.org/)
